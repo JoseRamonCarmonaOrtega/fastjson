@@ -10,7 +10,7 @@
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/fastjson2.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:fastjson2)
 [![QualityGate](https://quality-gate.com/backend/api/timeline?branchName=master&projectName=alibaba_fastjson)](https://quality-gate.com/dashboard/branches/7816#overview)
 
-Fastjson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object. Fastjson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of.
+Fastjson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object as it also serves to manipulate JSON files. Fastjson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of.
 
 [FASTJSON 2.0.x](https://github.com/alibaba/fastjson2/releases) has been released, faster and more secure, we recommend you [upgrade](https://github.com/alibaba/fastjson2/wiki/fastjson_1_upgrade_cn) to the latest version.
 
